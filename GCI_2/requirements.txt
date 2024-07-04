@@ -1,0 +1,7 @@
+matplotlib
+seaborn
+scikit-learn
+lightgbm
+xgboost
+
+#pip install -r requirements.txt
